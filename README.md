@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IamEY1318
+- 👀 I’m interested in coding Java,Python and HTML
+- 🌱 I’m currently learning to code Java
+- 📫 Email me at yeemily1318@gmail.com for contact!
